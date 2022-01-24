@@ -1,0 +1,36 @@
+nav {
+    background-color: white;
+    color: violet;
+}
+
+body {
+    background-color: rgb(252, 199, 252);
+    font-family: monospace, sans-serif;
+    font-size: 20px;
+}
+
+.aboutus {
+    background-color: rgb(247, 147, 129);
+}
+
+p {
+    padding: 50px 0 50px 0;
+}
+
+img {
+    margin: 50px;
+}
+
+.margin {
+    padding-top: 10px;
+
+}
+
+.partneis {
+    background-color: rgb(151, 226, 219);
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
